@@ -20,4 +20,4 @@ Data yang digunakan memiliki 5 field/kolom yaitu:
 
 Berikut tampilan menu utama program saat pertama kali dijalankan
 
-![img1](screenshot/(1)Menu_utama.PNG)
+![img1](Screenshot/(1)Menu_utama.PNG)
